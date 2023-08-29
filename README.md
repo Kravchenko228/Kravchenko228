@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning computer science and working as Full Stack developer
 <!--
 **Kravchenko228/Kravchenko228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
